@@ -7,6 +7,10 @@ EXPOSE 80
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1-buster AS build
 WORKDIR /src
 COPY ["Promociones/Promociones.csproj", "Promociones/"]
+COPY ["Repository/Repository.csproj", "Repository/"]
+COPY ["Models/Models.csproj", "Models/"]
+COPY ["Helpers/Helpers.csproj", "Helpers/"]
+COPY ["Services/Services.csproj", "Services/"]
 RUN dotnet restore "Promociones/Promociones.csproj"
 COPY . .
 WORKDIR "/src/Promociones"

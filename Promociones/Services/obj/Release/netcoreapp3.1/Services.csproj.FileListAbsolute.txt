@@ -1,0 +1,16 @@
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Services.deps.json
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Services.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Services.pdb
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Helpers.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Models.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Repository.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Models.pdb
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Repository.pdb
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\bin\Release\netcoreapp3.1\Helpers.pdb
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\obj\Release\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\obj\Release\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\obj\Release\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\obj\Release\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\obj\Release\netcoreapp3.1\Services.csproj.CopyComplete
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\obj\Release\netcoreapp3.1\Services.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Services\obj\Release\netcoreapp3.1\Services.pdb

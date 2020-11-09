@@ -95,8 +95,6 @@ namespace Repository
         #region Private Helper Methods  
         private void GetDatabase()
         {
-            var jsonConfig = JsonHelper.GetDataFromFile<ConfigurationModel>(@".\appsettings.json");
-
             var client = new MongoClient("mongodb+srv://hcastellote:lerolero1@clusterpromociones.pfjbb.mongodb.net/Promociones?retryWrites=true&w=majority"); //TODO
             var server = client.GetServer();
 

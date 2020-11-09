@@ -1,0 +1,9 @@
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\bin\Release\netcoreapp3.1\Models.deps.json
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\bin\Release\netcoreapp3.1\Models.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\bin\Release\netcoreapp3.1\Models.pdb
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\obj\Release\netcoreapp3.1\Models.csprojAssemblyReference.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\obj\Release\netcoreapp3.1\Models.AssemblyInfo.cs
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\obj\Release\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\obj\Release\netcoreapp3.1\Models.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Models\obj\Release\netcoreapp3.1\Models.pdb

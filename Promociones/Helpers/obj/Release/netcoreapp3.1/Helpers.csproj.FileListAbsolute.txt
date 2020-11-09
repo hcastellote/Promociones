@@ -1,0 +1,9 @@
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\bin\Release\netcoreapp3.1\Helpers.deps.json
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\bin\Release\netcoreapp3.1\Helpers.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\bin\Release\netcoreapp3.1\Helpers.pdb
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\obj\Release\netcoreapp3.1\Helpers.csprojAssemblyReference.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\obj\Release\netcoreapp3.1\Helpers.AssemblyInfoInputs.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\obj\Release\netcoreapp3.1\Helpers.AssemblyInfo.cs
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\obj\Release\netcoreapp3.1\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\obj\Release\netcoreapp3.1\Helpers.dll
+C:\Users\AR00062431\Documents\Documentos Hernán\Personal\Gestor Promociones\Promociones\Helpers\obj\Release\netcoreapp3.1\Helpers.pdb
