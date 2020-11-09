@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4owNITDOSw3Se/c3FbvxI60Qff/CxpHfUURgL9xAPtiPlPaierSKKQfHVIiHcDsPbkBkIQheJy8/rD7NTvNLTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AR00062431\\Documents\\Documentos Hernán\\Personal\\Gestor Promociones\\Promociones\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AR00062431\\.nuget\\packages\\mongodb.bson\\2.11.4\\mongodb.bson.2.11.4.nupkg.sha512",
+    "C:\\Users\\AR00062431\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

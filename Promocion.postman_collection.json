@@ -1,0 +1,173 @@
+{
+	"info": {
+		"_postman_id": "1ecba02e-04c3-4108-8e7e-1d70c0b06c30",
+		"name": "Promocion",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetPromocionesVigentes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetPromocionesVigentesFecha",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:65362/api/Promocion/PromocionesVigentesFecha/20-05-2020",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "65362",
+					"path": [
+						"api",
+						"Promocion",
+						"PromocionesVigentesFecha",
+						"20-05-2020"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetPromocionesVigentesVenta",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:65362/api/Promocion/PromocionesVigentesFecha/20-05-2020",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "65362",
+					"path": [
+						"api",
+						"Promocion",
+						"PromocionesVigentesFecha",
+						"20-05-2020"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CreatePromocion",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "  {\r\n        \"mediosDePago\": [\r\n            \"TARJETA_DEBITO\",\r\n            \"TARJETA_CREDITO\"\r\n        ],\r\n        \"bancos\": [\r\n            \"Nacion\",\r\n            \"Ciudad\"\r\n        ],\r\n        \"categoriasProductos\": [\r\n            \"GrandesElectro\",\r\n            \"Tecnologia\"\r\n        ],\r\n        \"maximaCantidadDeCuotas\": 12,\r\n        \"valorInteresesCuotas\": 5555,\r\n        \"porcentajeDeDescuento\": 2,\r\n        \"fechaInicio\": \"2020-10-22T03:00:00Z\",\r\n        \"fechaFin\": \"2020-11-21T03:00:00Z\",\r\n        \"activo\": true,\r\n        \"fechaCreacion\": \"2020-11-06T03:00:00Z\",\r\n        \"fechaModificacion\": null\r\n    }\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:65362/api/Promocion",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "65362",
+					"path": [
+						"api",
+						"Promocion"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ModificarPromocion",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:65362/api/Promocion/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "65362",
+					"path": [
+						"api",
+						"Promocion",
+						""
+					]
+				},
+				"description": "ModificarPromocion\r\n"
+			},
+			"response": []
+		},
+		{
+			"name": "ModificarVigenciaPromocion",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
